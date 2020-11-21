@@ -1,5 +1,5 @@
  ## <p align=center> **ДЗ по курсу Факультет Devops**
- #### <p align=center> Введение в UNIX-системы
+ ### <p align=center> Введение в UNIX-системы
  1. [Задание №1](https://github.com/Alexei-T/geek/tree/master/1)  
 1)Установить Virtualbox или VMWare Player, установить виртуальную машину с Ubuntu.  
 2)Разобраться, что такое bash, используя справочные системы.  
