@@ -12,7 +12,7 @@
 \* Установить mc и openssh-server.  
 \* Если вы работаете в Windows, установить PuTTY для подключения к виртуальной машине по ssh и подключиться.
 </details>    
-2. [Задание №2](https://github.com/Alexei-T/geek/tree/main/2)   
+2. [Задание №2](https://github.com/Alexei-T/geek/tree/main/2 "123")   
 <details><summary>Описание задания</summary>  
  
 1)Просмотреть содержимое директорий /etc, /proc, /home. Посмотреть пару произвольных файлов в /etc.        
