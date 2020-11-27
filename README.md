@@ -13,7 +13,7 @@
 \* Если вы работаете в Windows, установить PuTTY для подключения к виртуальной машине по ssh и подключиться.
 </details>  
 
-[Задание №2](https://github.com/Alexei-T/geek/tree/main/2)   
+2.  [Задание №2 - Работа в консоли](https://github.com/Alexei-T/geek/tree/main/2)   
 <details><summary>Описание задания</summary>  
  
 1)Просмотреть содержимое директорий /etc, /proc, /home. Посмотреть пару произвольных файлов в /etc.        
