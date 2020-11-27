@@ -9,7 +9,7 @@
   3)Разобраться, как копировать и удалять файлы.  
   \* Установить mc и openssh-server.  
   \* Если вы работаете в Windows, установить PuTTY для подключения к виртуальной машине по ssh и подключиться.
-</details>    
+  </details>    
 2. [Задание №2 - Работа в консоли](https://github.com/Alexei-T/geek/tree/master/2)    
   
 <details><summary>Описание задания</summary>  
