@@ -56,4 +56,4 @@ SIGTSTP(CTRL-Z) - приостанавливает работу процесса
 * Текущая директория имеет разрешения: drwxr-xr-x.
 Родительская:  dr-xr-xr-x.
 Соответсвенно исключим из вывода эти директории по разрешениям и последнюю строку "total"  
-ls -la /etc/ | cut -d " " -f1 | sort -u | grep -Ev 'drwxr-xr-x.|dr-xr-xr-x.|total'
+ls -la /etc/ | cut -d " " -f1 | sort -u | grep -Ev 'drwxr-xr-x.|dr-xr-xr-x.|total'| wc -l
