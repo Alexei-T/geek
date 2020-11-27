@@ -5,7 +5,7 @@
 1. [Задание №1 - Знакомство с UNIX/Linux](https://github.com/Alexei-T/geek/tree/master/1)
  <details><summary>Описание задания</summary>   
     
-1)Установить Virtualbox или VMWare Player, установить виртуальную машину с Ubuntu. 
+1)Установить Virtualbox или VMWare Player, установить виртуальную машину с Ubuntu.   
 2)Разобраться, что такое bash, используя справочные системы.  
 3)Разобраться, как копировать и удалять файлы.    
 \* Установить mc и openssh-server.  
