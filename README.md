@@ -11,7 +11,7 @@
 \* Установить mc и openssh-server.  
 \* Если вы работаете в Windows, установить PuTTY для подключения к виртуальной машине по ssh и подключиться.
 </details>    
-1. [Задание №1 - Знакомство с UNIX/Linux](https://github.com/Alexei-T/geek/tree/master/1)   
+1. [Задание №2] (https://github.com/Alexei-T/geek/tree/master/2)   
 <details><summary>Описание задания</summary>  
  
 1)Просмотреть содержимое директорий /etc, /proc, /home. Посмотреть пару произвольных файлов в /etc.        
