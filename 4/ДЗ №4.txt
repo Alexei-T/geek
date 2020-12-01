@@ -20,3 +20,13 @@ echo -n "Неверно указан путь либо имя файла"
 fi
 
 2)
+#!/bin/bash
+for i in {2010..2017}
+do
+for j in {01..12}
+do
+mkdir -p $i/$j && echo "file $j" > $i/$j/$j.txt
+done
+done
+
+*
