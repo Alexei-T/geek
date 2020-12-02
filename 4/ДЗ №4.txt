@@ -46,3 +46,26 @@ du -hs /home/* > /root/total.txt
 
 echo "6 3 * * * root ~/dz3.sh" >> /etc/crontab
 #Созданый скрипт будет запускаться каждый день в 03:06
+_________________________________________________________________________________________________________________________________________________________________________________
+*
+#!/bin/bash
+echo -n "Введите полный путь до директории с файлами для сортировки:"
+read indir
+echo -n "Введите полный путь новой директории, если такая директория уже существует, то она будет перезаписана:"
+read outdir
+if ! [ -d $outdir ]; then
+mkdir $outdir
+else
+rm -rf $outdir/*
+fi
+for i in $(find $indir/* -printf '%u:%h:%p:%P\n') 
+do
+own=$(echo $i | cut -d ':' -f1)  
+file=$(echo $i | cut -d ':' -f3)
+outfile=$outdir/$own
+[ -d $file ] && continue 
+[ -d $outfile ] || mkdir -p $outfile
+cp -fp $file $outfile/
+chown $own $outfile
+done
+
