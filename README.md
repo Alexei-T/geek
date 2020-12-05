@@ -49,7 +49,7 @@
 
 </details>
 
-5. [Задание №5 - Bash, скрипты и автоматизация](https://github.com/Alexei-T/geek/tree/master/5)    
+5. [Задание №5 - Сетевые возможности Linux](https://github.com/Alexei-T/geek/tree/master/5)    
 <details><summary>Описание задания №5</summary>  
  
 1)Произвести ручную настройку сети в Ubuntu используя netplan.  
