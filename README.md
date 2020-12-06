@@ -1,4 +1,4 @@
-# <p align=center> **ДЗ по курсу Факультет Devops** (#ux0)
+# <p align=center> **ДЗ по курсу Факультет Devops**
 1. [Введение в UNIX-системы](#ux1)
 ## <p align=center> Введение в UNIX-системы <a name="ux1"></a>    
 1. [Задание №1 - Знакомство с UNIX/Linux](https://github.com/Alexei-T/geek/tree/master/1)
@@ -57,5 +57,3 @@
 \* Дополнительно к предыдущему заданию настроить доступ по ssh только из указанной сети.
 
 </details>
-
-[click on this link](#ux0)
