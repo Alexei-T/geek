@@ -58,4 +58,4 @@
 
 </details>
 
-Вернуться в начало <a name="#ux1">
+[click on this link](#ux1)
