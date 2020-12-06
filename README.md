@@ -58,4 +58,4 @@
 
 </details>
 
-<a href="#"> НАВЕРХ </a>
+<a href="#" onClick="scroll(0,0); return false" title="наверх"> НАВЕРХ </a>
