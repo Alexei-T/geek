@@ -1,5 +1,5 @@
 # <p align=center> **ДЗ по курсу Факультет Devops**
-Список разделов:
+<p align=center> Оглавление
 1. [Введение в UNIX-системы](#ux1)
 ## <p align=center> Введение в UNIX-системы <a name="ux1"></a>    
 1. [Задание №1 - Знакомство с UNIX/Linux](https://github.com/Alexei-T/geek/tree/master/1)
