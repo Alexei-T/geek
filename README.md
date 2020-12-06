@@ -58,4 +58,4 @@
 
 </details>
 
-<p align=center> Вернуться в начало <a name="ux1"></a> 
+Вернуться в начало <a name="ux1">
