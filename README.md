@@ -58,4 +58,4 @@
 
 </details>
 
-<a href="#top"> НАВЕРХ </a>
+<a href="#top">К оглавлению</a>
