@@ -34,7 +34,7 @@ dnf install iptables-services -y
 systemctl enable --now iptables
 iptables -A INPUT -i eth1 -p TCP --dport 80 -j ACCEPT
 iptables -A INPUT -i eth1 -p TCP --dport 443 -j ACCEPT
-iptables -t nat -A PREROUTING -p tcp --dport 8080 -j REDIRECT --to-port 80
+iptables -t nat -A PREROUTING -i eth1 -p tcp --dport 8080 -j REDIRECT --to-port 80
 iptables -A INPUT -i eth1 -m state --state ESTABLISHED,RELATED -j ACCEPT
 iptables -A INPUT -i eth1 -j DROP
 iptables-save | tee /etc/sysconfig/iptables    #Посмотреть текущие настройки и сохранить перманентно
