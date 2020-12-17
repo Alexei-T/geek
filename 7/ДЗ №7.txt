@@ -6,7 +6,6 @@
 
 РЕШЕНИЕ:
 1)Скрин 1.png
-
 2.* 
 apt install nginx php-fpm -y
 #Настроим работу Nginx с php-fpm через Unix socket, отредактировав файл конфигурации сайта "/etc/nginx/sites-enabled/default",
@@ -21,7 +20,6 @@ echo "<?php phpinfo(); ?>" > /var/www/html/info.php
 systemctl restart nginx
 #Проверить работу  php можно перейдя на http://127.0.0.1/info.php 
 #Скрин 2.png
-
 3.*
 #Установим на 3 сервера apache и php:
 yum install httpd
