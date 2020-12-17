@@ -10,7 +10,7 @@
 2.* 
 apt install nginx php-fpm -y
 #Настроим работу Nginx с php-fpm через Unix socket, отредактировав файл конфигурации сайта "/etc/nginx/sites-enabled/default",
-расментируем строки:
+раскомментируем строки:
 ____________________________________________________________
 location ~ \.php$ {
 include snippets/fastcgi-php.conf;
