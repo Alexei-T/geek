@@ -3,7 +3,7 @@
 2. [Компьютерные сети](#ux2)
 ## <p align=center> Введение в UNIX-системы <a name="ux1"></a> 
 
-1. [Задание №1 - Знакомство с UNIX/Linux](https://github.com/Alexei-T/geek/tree/master/1)
+1. [Задание №1 - Знакомство с UNIX/Linux](https://github.com/Alexei-T/geek/tree/main/Введение%20в%20UNIX-системы/1)
  <details><summary>Описание задания №1</summary>   
     
 1)Установить Virtualbox или VMWare Player, установить виртуальную машину с Ubuntu.   
