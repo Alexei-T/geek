@@ -101,7 +101,7 @@
  
 ## <p align=center> Компьютерные сети <a name="ux2"></a>
  
- 1. [Задание №1 - Основы компьютерных сетей.Технология Ethernet(Часть 1)](https://github.com/Alexei-T/geek/tree/main/Введение%20в%20UNIX-системы/)
+ 1. [Задание №1 - Основы компьютерных сетей. Технология Ethernet (Часть 1)](https://github.com/Alexei-T/geek/tree/main/Введение%20в%20UNIX-системы/)
  <details><summary>Описание задания №1</summary>   
     
 1)Установить Virtualbox или VMWare Player, установить виртуальную машину с Ubuntu.   
