@@ -5,5 +5,5 @@
  
 РЕШЕНИЕ:
 1)См. 1.png
-2)Файл Cisco Packet Tracer - "DZ_2_done.pkt"
+2)Файл Cisco Packet Tracer - "DZ_2_done.pkt" (пароль для привилегированного режима и telnet: cisco)
 3)См. 3.png
