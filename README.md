@@ -125,7 +125,7 @@
 </details> 
 
  3. [Задание №3 - Сетевой уровень (Часть 1) ](https://github.com/Alexei-T/geek/tree/main/Компьютерные%20сети/3)
- <details><summary>Описание задания №2</summary>   
+ <details><summary>Описание задания №3</summary>   
     
 1)В приложенном файле в Cisco Packet Tracer связать локальные сети с помощью статической маршрутизации.  
 2)Проследить в Cisco Packet Tracer, Wireshark работу протоколов arp, icmp (например, используя tracert или traceroute -I).
