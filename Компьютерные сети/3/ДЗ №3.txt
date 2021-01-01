@@ -1,0 +1,8 @@
+ЗАДАНИЕ:
+1)В приложенном файле в Cisco Packet Tracer связать локальные сети с помощью статической маршрутизации.
+2)Проследить в Cisco Packet Tracer, Wireshark работу протоколов arp, icmp (например, используя tracert или traceroute -I).
+
+РЕШЕНИЕ:
+1)См. DZ_3_done.pkt
+2)Работа протоколов arp, icmp рассмотрена в Cisco Packet Tracer (Отправлен ping с PC3 на PC1 - cм. скрин packet.png), а также в wireshark (Отправлен ping 
+c IP:192.168.50.253 на IP:192.168.50.93 - см. скрин wireshark.png ) 
