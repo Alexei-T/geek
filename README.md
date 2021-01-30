@@ -176,10 +176,10 @@ mail.ru, geekbrains.ru, vk.com соответственно?
 
 ## <p align=center> Операционные системы <a name="ux3"></a>
  
-  1. [Задание №1 - Операционные системы](https://github.com/Alexei-T/geek/tree/main/Операционные%20системы/1)
+ 1. [Задание №1 - Операционные системы](https://github.com/Alexei-T/geek/tree/main/Операционные%20системы/1)
  <details><summary>Описание задания №1</summary>   
     
-1)
+1)111
  
  </details>
 
