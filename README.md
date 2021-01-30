@@ -179,7 +179,7 @@ mail.ru, geekbrains.ru, vk.com соответственно?
 1. [Задание №1 - Операционные системы](https://github.com/Alexei-T/geek/tree/main/Операционные%20системы/1)
 <details><summary>Описание задания №1</summary>   
     
-1)
+1)Дано
  
 </details>
 
