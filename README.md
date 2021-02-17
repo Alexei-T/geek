@@ -198,7 +198,7 @@ mail.ru, geekbrains.ru, vk.com соответственно?
  
 </details>
 
-3. [Задание №3 - Файловые системы](https://github.com/Alexei-T/geek/tree/main/Операционные%20системы/3)
+3. [Задание №3 - Файловые системы (Часть 1)](https://github.com/Alexei-T/geek/tree/main/Операционные%20системы/3)
 <details><summary>Описание задания №3</summary>   
 
 1)Что такое цилиндр HDD?  
@@ -208,7 +208,7 @@ mail.ru, geekbrains.ru, vk.com соответственно?
  
 </details>
 
-4. [Задание №4 - Память](https://github.com/Alexei-T/geek/tree/main/Операционные%20системы/4)
+4. [Задание №4 - Файловые системы (Часть 2)](https://github.com/Alexei-T/geek/tree/main/Операционные%20системы/4)
 <details><summary>Описание задания №4</summary>   
 
 1)Что такое блок в файловых системах?  
