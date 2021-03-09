@@ -263,7 +263,7 @@ mail.ru, geekbrains.ru, vk.com соответственно?
 
 ## <p align=center> Основы Python <a name="ux4"></a>
  
- 1. [Задание №1 - Знакомство с Python](https://github.com/Alexei-T/geek/tree/main/Операционные%20системы/8)
+ 1. [Задание №1 - Знакомство с Python](https://github.com/Alexei-T/geek/tree/main/Основы%20Python/1)
 <details><summary>Описание задания №1</summary>   
 
 1)Поработайте с переменными, создайте несколько, выведите на экран, запросите у пользователя несколько чисел и строк и сохраните в переменные, выведите на экран.  
