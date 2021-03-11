@@ -68,4 +68,3 @@ outfile=$outdir/$own
 cp -fp $file $outfile/
 chown $own $outfile
 done
-
