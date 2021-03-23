@@ -47,7 +47,6 @@ ________________________________________________________________________________
 filename = input("Введите имя существующего файла из которого нужно прочитать данные : ")
 file = open(filename, "r", encoding="utf-8")
 lines = file.readlines()
-
 words = 0
 for line_in_file in lines:
     words += len(line_in_file.split())
@@ -56,11 +55,8 @@ file.close()
 ________________________________________________________________________________________________________________________________________________________________________
 3)
 import sys
-
 filename = input("Введите имя существующего файла из которого нужно прочитать данные : ")
-
 min_salary = 20000
-
 if __name__ == "__main__":
     try:
         with open(filename, encoding='utf-8') as file_obj:
@@ -68,17 +64,13 @@ if __name__ == "__main__":
     except IOError as e:
         print(e)
         sys.exit(1)
-
     summ_salary = 0
-
     for employee in employees:
         name, salary = employee.split()
-
         try:
             salary = float(salary)
         except ValueError:
             continue
-
         summ_salary += salary
         if salary < min_salary:
             print(name)
@@ -87,10 +79,8 @@ if __name__ == "__main__":
 ________________________________________________________________________________________________________________________________________________________________________
 4)
 import sys
-
 file_in = input("Введите имя существующего файла для чтения: ")
 file_out = input("Введите имя нового файла для записи: ")
-
 dictionary = {
     'One': 'Один',
     'Two': 'Два',
@@ -104,7 +94,6 @@ if __name__ == "__main__":
     except IOError as e:
         print(e)
         sys.exit(1)
-
 with open(file_out, 'a', encoding='utf-8') as file_write:
     for line in lines:
         row = line.split()
@@ -118,12 +107,9 @@ def summary():
             line = input("Введите цифры через пробел \n")
             file_obj.writelines(line)
             my_numb = line.split()
-
             print(sum(map(int, my_numb)))
     except ValueError:
         print("Введены не цифры")
-
-
 summary()
 ________________________________________________________________________________________________________________________________________________________________________
 6)
@@ -135,5 +121,4 @@ with open("6.txt", encoding="utf-8") as f_obj:
         for el in lessons:
             lesson_time.append(''.join(i for i in list(el) if i.isdigit()))
         result[line.split(':')[0]] = sum([int(i) for i in lesson_time if i.isdigit()])
-
 print(result)
