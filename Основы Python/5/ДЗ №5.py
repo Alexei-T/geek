@@ -118,7 +118,7 @@ summary()
 ________________________________________________________________________________________________________________________________________________________________________
 6)
 result = {}
-with open("6.txt", encoding="utf-8") as f_obj:
+with open("6-in_file.txt", encoding="utf-8") as f_obj:
     for line in f_obj:
         lesson_time = []
         lessons = ([el for el in line.split(" ")])
