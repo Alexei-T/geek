@@ -488,7 +488,7 @@ Four — 4
 
 </details>
  
-2. [Задание №1 - Роутер на Linux, обеспечение безопасности](https://github.com/Alexei-T/geek/tree/main/Основные%20сервисы%20на%20Linux%20для%20предприятия/2)
+2. [Задание №2 - DNS](https://github.com/Alexei-T/geek/tree/main/Основные%20сервисы%20на%20Linux%20для%20предприятия/2)
 <details><summary>Описание задания №2</summary>   
 
 1)Настроить nic teaming между двумя интерфейсами — server1 и server2. Подсеть 192.168.12.0/24 будет находиться теперь на team0-интерфейсе.  
