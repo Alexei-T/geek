@@ -583,7 +583,7 @@ Four — 4
  
 </details>
 
-2. [Задание №2 - Ansible — как готовить](https://github.com/Alexei-T/geek/tree/main/next/Системы%20управления%20конфигурациями/2)
+2. [Задание №2 - Ansible - как готовить](https://github.com/Alexei-T/geek/tree/main/next/Системы%20управления%20конфигурациями/2)
 <details><summary>Описание задания №2</summary>
  
 1)Установить и настроить Ansible. Результатом работы должен быть вывод Ansible -m setup.  
