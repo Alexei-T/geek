@@ -1,0 +1,3 @@
+[appservers]
+test3 ansible_host=test3.lol.ru ansible_user=alex
+
