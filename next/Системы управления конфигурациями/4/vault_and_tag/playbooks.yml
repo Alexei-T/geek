@@ -1,0 +1,13 @@
+---
+
+- hosts: web
+  roles:
+    - nginx
+
+- hosts: all
+  roles:
+    - new-user
+
+- hosts: DB_serv
+  roles:
+    - geerlingguy.mysql

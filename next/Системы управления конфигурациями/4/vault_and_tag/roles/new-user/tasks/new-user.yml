@@ -1,0 +1,27 @@
+- name: Create user account
+  user:
+    name: "{{ deploy_user.name }}"
+    password: "{{ deploy_user.passwd | password_hash('sha512') }}"
+    state: present
+    group: wheel
+    append: yes
+    shell: "/bin/bash"
+    update_password: on_create
+  when: deploy_user.groups is not defined
+
+- name: Create user account
+  user:
+    name: "{{ deploy_user.name }}"
+    password: "{{ deploy_user.passwd | password_hash('sha512') }}"
+    state: present
+    groups: "{{ item }}"
+    append: yes
+    shell: "/bin/bash"
+    update_password: on_create
+  when: deploy_user.groups is defined
+  loop: "{{ (deploy_user.groups | replace(' ', '')).split(',') }}"
+  ignore_errors: true
+
+- name: User created
+  debug:
+    msg: "Password for {{ deploy_user.name }} is {{ deploy_user.passwd }}"
