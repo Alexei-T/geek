@@ -610,7 +610,7 @@ Four — 4
 
 ## <p align=center> Методологии Agile/Scrum/Devops <a name="ux9"></a>
  
-1. [Задание №1 - Введение в Agile. Классические подходы. Гибкие подходы. Agile/Scrum/Kanban](https://github.com/Alexei-T/geek/tree/main/next/Анализ%2C%20оптимизация%20и%20аварийные%20работы%20в%20Linux/1)
+1. [Задание №1 - Введение в Agile. Классические подходы. Гибкие подходы. Agile/Scrum/Kanban](https://github.com/Alexei-T/geek/tree/main/next/Методологии%20Agile%2CScrum%2CDevops/1)
 <details><summary>Описание задания №1</summary>
  
 1)Предложите Продукт: укажите границы и критерии завершённого Продукта.  
