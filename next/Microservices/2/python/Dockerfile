@@ -4,4 +4,3 @@ pip install --no-cache-dir Jinja2==2.11.2 MarkupSafe==1.1.1 Werkzeug==1.0.1
 COPY ./app.py .
 EXPOSE 8080
 ENTRYPOINT python app.py
-
