@@ -745,7 +745,7 @@ Four — 4
 3. [Задание №3 - Введение в Kubernetes](https://github.com/Alexei-T/geek/tree/main/next/Microservices/3)
 <details><summary>Описание задания №3</summary>
  
-1)Cоздайте namespace kubedoom “kubectl create ns kubedoom”. Напишите deployment для запуска игры Kube DOOM. Приложение должно запускаться из образа storaxdev/kubedoom:0.5.0. Должен быть описан порт: 5900 TCP. Для указания протокола используется поле protocol в описании порта. В деплойменте должна быть одна реплика, при этом при обновлении образа не должно одновременно работать две реплики (см. maxSurge и maxUnavailable из лекции).
+1)Cоздайте namespace kubedoom. Напишите deployment для запуска игры Kube DOOM. Приложение должно запускаться из образа storaxdev/kubedoom:0.5.0. Должен быть описан порт: 5900 TCP. Для указания протокола используется поле protocol в описании порта. В деплойменте должна быть одна реплика, при этом при обновлении образа не должно одновременно работать две реплики (см. maxSurge и maxUnavailable из лекции).
 
 </details>
  
