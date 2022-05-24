@@ -759,7 +759,7 @@ Four — 4
 5. [Задание №5 - Сетевые абстракции Kubernetes](https://github.com/Alexei-T/geek/tree/main/next/Microservices/5)
 <details><summary>Описание задания №5</summary>
  
-1)Разверните в кластере сервер базы данных Postgresql из пр задания. В этом же неймспэйсе создайте deployment с образом redmine. Создайте ingress для приложения, так чтобы запросы с любым доменом на белый IP вашего сервиса nginx-ingress-controller (тот что в нэймспэйсе ingress-nginx с типом LoadBalancer) шли на приложение.
+1)Разверните в кластере сервер базы данных Postgresql из предыдущего задания. В этом же неймспэйсе создайте deployment с образом redmine. Создайте ingress для приложения, так чтобы запросы с любым доменом на белый IP вашего сервиса nginx-ingress-controller (тот что в нэймспэйсе ingress-nginx с типом LoadBalancer) шли на приложение.
 
 </details>
  
