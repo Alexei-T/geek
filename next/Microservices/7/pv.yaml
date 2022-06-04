@@ -12,5 +12,4 @@ spec:
     - ReadWriteOnce
   hostPath:
     path: /pv1
-  storageClassName: local  
-
+  storageClassName: local
