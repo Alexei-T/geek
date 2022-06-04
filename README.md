@@ -764,9 +764,9 @@ Four — 4
 </details>
  
 7. [Задание №7 - Продвинутые абстракции](https://github.com/Alexei-T/geek/tree/main/next/Microservices/7)
-<details><summary>Описание задания №5</summary>
+<details><summary>Описание задания №7</summary>
  
-1)Разверните в кластере сервер систему мониторинга Prometheus. Создайте StatefulSet для Prometheus сервера из образа prom/prometheus:v2.19.2 с одной репликой. В этом же неймспэйсе создайте DaemonSet node-exporter. Откройте в браузере интерфейс Prometheus. Попробуйте открыть Status -> Targets. Тут вы должны увидеть все ноды своего кластера, которые Prometheus смог определить и собирает с ним метрики. Так же можете попробовать на вкладке Graph выполнить запрос node_load1 - это минутный Load Average для каждой из нод в кластере. 
+1)Разверните в кластере сервер систему мониторинга Prometheus. Создайте StatefulSet для Prometheus сервера из образа prom/prometheus:v2.19.2 с одной репликой. В этом же неймспэйсе создайте DaemonSet node-exporter. Откройте в браузере интерфейс Prometheus. Попробуйте открыть Status -> Targets. Тут вы должны увидеть все ноды своего кластера, которые Prometheus смог определить и собирает по ним метрики. Так же можете попробовать на вкладке Graph выполнить запрос node_load1 - это минутный Load Average для каждой из нод в кластере. 
 
 </details>
 
