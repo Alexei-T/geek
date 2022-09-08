@@ -578,7 +578,7 @@ Four — 4
 
 </details>
 
-4. [Задание №4 - Операторы, фильтрация, сортировка и ограничение](https://github.com/Alexei-T/geek/tree/main/next/DB/4)
+4. [Задание №4 - Агрегация данных](https://github.com/Alexei-T/geek/tree/main/next/DB/4)
 <details><summary>Описание задания №4</summary>   
 
 1)Подсчитайте средний возраст пользователей в таблице users.  
